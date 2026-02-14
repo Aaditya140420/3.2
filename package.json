@@ -2,7 +2,7 @@
   "name": "library-management",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Aaditya140420.github.io/library-management",
+  "homepage": "https://Aaditya140420.github.io/ex3-2",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
